@@ -1,44 +1,46 @@
-[
-  {
-    "id": 0,
-    "name": "Blue",
-    "roomNumber": "2.41",
-    "reservations": [
-      {
-        "roomId": 0,
-        "subject": "Subject0",
-        "startTime": "12:30",
-        "endTime": "15:00",
-        "date": "20-05-2019"
-      }
-    ]
-  },
-  {
-    "id": 1,
-    "name": "Silver",
-    "roomNumber": "2.35",
-    "reservations": [
-      {
-        "roomId": 1,
-        "subject": "Subject1",
-        "startTime": "17:11",
-        "endTime": "22:33",
-        "date": "20-05-2019"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Budka",
-    "roomNumber": "2.5",
-    "reservations": [
-      {
-        "roomId": 2,
-        "subject": "Subject2",
-        "startTime": "09:30",
-        "endTime": "15:00",
-        "date": "21-05-2019"
-      }
-    ]
-  }
-]
+{
+	"rooms": [
+	  {
+	    "id": 0,
+	    "name": "Blue",
+	    "roomNumber": "2.41",
+	    "reservations": [
+	      {
+	        "roomId": 0,
+	        "subject": "Subject0",
+	        "startTime": "12:30",
+	        "endTime": "15:00",
+	        "date": "20-05-2019"
+	      }
+	    ]
+	  },
+	  {
+	    "id": 1,
+	    "name": "Silver",
+	    "roomNumber": "2.35",
+	    "reservations": [
+	      {
+	        "roomId": 1,
+	        "subject": "Subject1",
+	        "startTime": "17:11",
+	        "endTime": "22:33",
+	        "date": "20-05-2019"
+	      }
+	    ]
+	  },
+	  {
+	    "id": 2,
+	    "name": "Budka",
+	    "roomNumber": "2.5",
+	    "reservations": [
+	      {
+	        "roomId": 2,
+	        "subject": "Subject2",
+	        "startTime": "09:30",
+	        "endTime": "15:00",
+	        "date": "21-05-2019"
+	      }
+	    ]
+	  }
+	]
+}
